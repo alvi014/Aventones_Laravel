@@ -1,6 +1,8 @@
 <?php
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\VehicleController;
+use App\Http\Controllers\RideController;
 
 
 // Página de inicio
@@ -28,4 +30,6 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard')->middleware('auth');
 Route::resource('vehicles', VehicleController::class);
+
+Route::resource('rides', RideController::class);
 });
