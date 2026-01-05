@@ -76,6 +76,10 @@ class AuthController extends Controller
             }            
             return redirect()->route('dashboard');
         }
+
+        return back()->withErrors([
+            'email' => 'Las credenciales proporcionadas no coinciden con nuestros registros.',
+        ])->onlyInput('email');
     }
 
     public function logout(Request $request) {
