@@ -12,11 +12,10 @@ Esta plataforma permite a los usuarios registrarse, publicar sus próximos viaje
 *   **Gestión de Usuarios:** Registro, inicio de sesión y perfiles de usuario personalizables.
 *   **Publicación de Viajes:** Los conductores pueden publicar detalles de sus viajes, como origen, destino, fecha, hora, asientos disponibles y precio.
 *   **Búsqueda y Reserva:** Los pasajeros pueden buscar viajes según sus necesidades y reservar un asiento de forma segura.
-*   **Sistema de Notificaciones:** Alertas para confirmaciones de reserva, cancelaciones y recordatorios de viaje.
+*   **Sistema de Notificaciones por Correo:** La aplicación envía correos electrónicos automáticos para mantener a los usuarios informados. Notifica al **conductor** cuando recibe nuevas solicitudes de reserva y alerta al **pasajero** cuando su reserva ha sido aceptada o cancelada.
 *   **Perfiles y Calificaciones:** Sistema de calificación y reseñas para construir confianza dentro de la comunidad.
 *   **Panel de Control:** Un dashboard para que los usuarios administren sus viajes publicados y sus reservas.
 
-*(Puedes agregar o quitar funcionalidades según lo que hayas implementado)*
 
 ## Tecnologías Utilizadas
 
