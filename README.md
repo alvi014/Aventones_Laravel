@@ -46,13 +46,21 @@ Este proyecto fue construido utilizando un stack de tecnologías moderno y efici
 
 Aquí puedes ver cómo luce la aplicación en funcionamiento:
 
+#### Plataforma Web
+
 | Página de Inicio | Búsqueda de Viajes |
 |:----------------:|:------------------:|
-| ![Inicio](docs/home.PNG)| ![Búsqueda](docs/search.png) |
+| ![Inicio](docs/home.PNG) | ![Búsqueda](docs/search.png) |
 
 | Publicar Viaje | Historial de Usuario |
-|:--------------:|:-----------------:|
-| ![Publicar](docs/publish.png) | ![Perfil](docs/history.png) |
+|:--------------:|:--------------------:|
+| ![Publicar](docs/publish.png) | ![Historial](docs/history.png) |
+
+#### Notificaciones por Correo
+
+| Aviso de Nuevo Ride (Conductor) | Confirmación de Reserva (Pasajero) |
+|:-------------------------------:|:----------------------------------:|
+| ![Correo Conductor](docs/email_driver.png) | ![Correo Pasajero](docs/email_passenger.png) |
 
 ## Instalación y Ejecución
 
