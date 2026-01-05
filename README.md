@@ -50,17 +50,17 @@ Aquí puedes ver cómo luce la aplicación en funcionamiento:
 
 | Página de Inicio | Búsqueda de Viajes |
 |:----------------:|:------------------:|
-| ![Inicio](docs/home.PNG) | ![Búsqueda](docs/search.png) |
+| ![Inicio](docs/home.PNG) | ![Búsqueda](docs/search.PNG) |
 
 | Publicar Viaje | Historial de Usuario |
 |:--------------:|:--------------------:|
-| ![Publicar](docs/publish.png) | ![Historial](docs/history.png) |
+| ![Publicar](docs/publish.PNG) | ![Historial](docs/history.PNG) |
 
 #### Notificaciones por Correo
 
 | Aviso de Nuevo Ride (Conductor) | Confirmación de Reserva (Pasajero) |
 |:-------------------------------:|:----------------------------------:|
-| ![Correo Conductor](docs/email_driver.png) | ![Correo Pasajero](docs/email_passenger.png) |
+| ![Correo Conductor](docs/email_driver.PNG) | ![Correo Pasajero](docs/email_passenger.PNG) |
 
 ## Instalación y Ejecución
 
